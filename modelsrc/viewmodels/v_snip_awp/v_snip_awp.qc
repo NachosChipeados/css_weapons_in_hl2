@@ -40,7 +40,7 @@ $sequence "awm_fire" {
 	"awm_fire.smd"
 	activity "ACT_VM_PRIMARYATTACK" 1
 	{ event AE_MUZZLEFLASH 0 "SMG1 MUZZLE" }
-	{ event 6001 26 "0" }
+	{ event 6001 26 "1" }
 	//{ event 5001 0 "1" }
 	{ event 5004 15 "Weapon_AWP.Bolt" }
 	{ event 5004 19 "Weapon_AWP.Bolt" }

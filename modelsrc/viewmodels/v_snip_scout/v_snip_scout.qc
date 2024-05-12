@@ -41,7 +41,7 @@ $sequence "shoot" {
 	"shoot.smd"
 	activity "ACT_VM_PRIMARYATTACK" 1
 	{ event AE_MUZZLEFLASH 0 "SMG1 MUZZLE" }
-	{ event 6001 20 "0" }
+	{ event 6001 20 "1" }
 	//{ event 5001 0 "1" }
 	{ event 5004 13 "Weapon_Scout.Bolt" }
 	//{ event AE_CLIENT_EFFECT_ATTACH 20 "EjectBrass_762Nato 2 40" }

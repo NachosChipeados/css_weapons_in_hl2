@@ -40,7 +40,7 @@ $sequence "ak47_fire1" {
 	"ak47_fire1.smd"
 	activity "ACT_VM_PRIMARYATTACK" 1
 	{ event AE_MUZZLEFLASH 0 "SMG1 MUZZLE" }
-	{ event 6001 0 "0" }
+	{ event 6001 0 "1" }
 	//{ event 5001 0 "1" }
 	//{ event AE_CLIENT_EFFECT_ATTACH 0 "EjectBrass_762Nato 2 150" }
 	snap
@@ -51,7 +51,7 @@ $sequence "ak47_fire2" {
 	"ak47_fire2.smd"
 	activity "ACT_VM_PRIMARYATTACK" 1
 	{ event AE_MUZZLEFLASH 0 "SMG1 MUZZLE" }
-	{ event 6001 0 "0" }
+	{ event 6001 0 "1" }
 	//{ event 5001 0 "1" }
 	//{ event AE_CLIENT_EFFECT_ATTACH 0 "EjectBrass_762Nato 2 150" }
 	snap
@@ -62,7 +62,7 @@ $sequence "ak47_fire3" {
 	"ak47_fire3.smd"
 	activity "ACT_VM_PRIMARYATTACK" 1
 	{ event AE_MUZZLEFLASH 0 "SMG1 MUZZLE" }
-	{ event 6001 0 "0" }
+	{ event 6001 0 "1" }
 	//{ event 5001 0 "1" }
 	//{ event AE_CLIENT_EFFECT_ATTACH 0 "EjectBrass_762Nato 2 150" }
 	snap

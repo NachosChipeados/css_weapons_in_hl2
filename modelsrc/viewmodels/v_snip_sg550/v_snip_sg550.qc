@@ -41,7 +41,7 @@ $sequence "shoot" {
 	"shoot.smd"
 	activity "ACT_VM_PRIMARYATTACK" 1
 	{ event AE_MUZZLEFLASH 0 "SMG1 MUZZLE" }
-	{ event 6001 0 "0" }
+	{ event 6001 0 "1" }
 	//{ event 5001 0 "1" }
 	//{ event AE_CLIENT_EFFECT_ATTACH 0 "EjectBrass_556 2 85" }
 	snap
@@ -52,7 +52,7 @@ $sequence "shoot2" {
 	"shoot2.smd"
 	activity "ACT_VM_PRIMARYATTACK" 1
 	{ event AE_MUZZLEFLASH 0 "SMG1 MUZZLE" }
-	{ event 6001 0 "0" }
+	{ event 6001 0 "1" }
 	//{ event 5001 0 "1" }
 	//{ event AE_CLIENT_EFFECT_ATTACH 0 "EjectBrass?556 2 80" }
 	snap
